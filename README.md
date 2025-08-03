@@ -1,5 +1,6 @@
 ## Hi there 👋 [play like its the endgame...](https://open.spotify.com/track/01E3KNTFlIAbZ0p3ous7MV?si=3f5e9634aded4f23)
 ![alt text](https://github.com/NotBrianZach/NotBrianZach/blob/main/ChatGPT%20Image%20Apr%2024%2C%202025%2C%2004_05_17%20PM.png)
+is reality infinitely differentiable? If truth has a velocity and acceleration like any game meta then whats the nth derivave of our collective metareality?
 
 <!--
 **NotBrianZach/NotBrianZach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

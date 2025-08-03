@@ -1,5 +1,5 @@
 ## Hi there 👋
-![alt text](https://github.com/[NotBrianZach]/[NotBrianZach]/blob/main/holomorphic.png?raw=true)
+![alt text](https://github.com/NotBrianZach/NotBrianZach/blob/main/ChatGPT Image Apr 24, 2025, 04_05_17 PM.png?raw=true)
 
 <!--
 **NotBrianZach/NotBrianZach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

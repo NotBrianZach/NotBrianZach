@@ -1,4 +1,5 @@
 ## Hi there 👋
+![alt text](https://github.com/[NotBrianZach]/[NotBrianZach]/blob/main/holomorphic.jpg?raw=true)
 
 <!--
 **NotBrianZach/NotBrianZach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

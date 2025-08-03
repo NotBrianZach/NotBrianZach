@@ -1,5 +1,5 @@
 ## Hi there 👋
-![alt text](https://github.com/NotBrianZach/NotBrianZach/blob/main/ChatGPT\ Image\ Apr\ 24,\ 2025,\ 04_05_17\ PM.png?raw=true)
+![alt text](https://github.com/NotBrianZach/NotBrianZach/blob/main/ChatGPT%20Image%20Apr%2024%2C%202025%2C%2004_05_17%20PM.png)
 
 <!--
 **NotBrianZach/NotBrianZach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
